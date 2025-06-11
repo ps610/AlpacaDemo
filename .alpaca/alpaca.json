@@ -5,7 +5,8 @@
             "artifacts": [
                 {
                     "type": "url",
-                    "url": "https://cosmo-alpaca.westeurope.cloudapp.azure.com/filebrowser/api/public/dl/d0rUUL4f"
+                    "name": "Demo App",
+                    "url": "https://cosmo-alpaca.westeurope.cloudapp.azure.com/filebrowser/api/public/dl/Aczik8yA"
                 },
                 {
                     "type": "nuget",
