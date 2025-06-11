@@ -2,16 +2,7 @@
     "containerConfigurations": [
         {
             "name": "default",
-            "artifacts": [
-                {
-                    "type": "url",
-                    "url": "https://cosmo-alpaca.westeurope.cloudapp.azure.com/filebrowser/api/public/dl/d0rUUL4f"
-                },
-                {
-                    "type": "nuget",
-                    "name": "CosmoConsult.COSMOLicensing.551d85cb-2152-4144-9464-a16791aff492"
-                }
-            ]
+            "artifacts": []
         },
         {
             "name": "current",
